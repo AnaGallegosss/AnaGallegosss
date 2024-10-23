@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi there 👋 :)
 
-<!--
-**AnaGallegosss/AnaGallegosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hi, MI NOMBRE ES ANA GALLEGOS UNA PROGRAMADORA WEB 
+<img src="logopapujpg.jpg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
