@@ -1,7 +1,7 @@
 ## Hi there 👋 :)
 
 Hi, MI NOMBRE ES ANA GALLEGOS UNA PROGRAMADORA WEB 
-<img src="logopapujpg.jpg">
+<img src="logo.jpg">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
